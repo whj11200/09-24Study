@@ -1,0 +1,14 @@
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\bin\Debug\net8.0\09-24Lock.exe
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\bin\Debug\net8.0\09-24Lock.deps.json
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\bin\Debug\net8.0\09-24Lock.runtimeconfig.json
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\bin\Debug\net8.0\09-24Lock.dll
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\bin\Debug\net8.0\09-24Lock.pdb
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\obj\Debug\net8.0\09-24Lock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\obj\Debug\net8.0\09-24Lock.AssemblyInfoInputs.cache
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\obj\Debug\net8.0\09-24Lock.AssemblyInfo.cs
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\obj\Debug\net8.0\09-24Lock.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\obj\Debug\net8.0\09-24Lock.dll
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\obj\Debug\net8.0\refint\09-24Lock.dll
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\obj\Debug\net8.0\09-24Lock.pdb
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\obj\Debug\net8.0\09-24Lock.genruntimeconfig.cache
+C:\Users\YONSAI\source\repos\09-24Lock\09-24Lock\obj\Debug\net8.0\ref\09-24Lock.dll
